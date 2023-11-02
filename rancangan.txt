@@ -1,0 +1,4 @@
+fitur di web ini:
+1.home
+2.about
+3.contact
